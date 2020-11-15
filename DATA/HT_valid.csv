@@ -1,0 +1,38 @@
+text,intent
+tell me about hawa mahal,Details
+book my hotel,Book
+create my itinerary ,CreateItinerary
+know about char minar,Details
+book a hotel for me,Book
+ create my itinerary for pune,CreateItinerary
+details about mysore palace,Details
+book my hotel,Book
+make my itinerary,CreateItinerary
+where is qutub minar,Details
+book my flight,Book
+what is my itinerary,CreateItinerary
+nearest metro station majnu ka tila,Details
+book a flight for me,Book
+plan a trip,CreateItinerary
+timings of akshardham,Details
+book my flight,Book
+what is my itinerary for nainital,CreateItinerary
+timings of qutub minar,Details
+book hotel and flight,Book
+plan a trip for delhi,CreateItinerary
+tell me about humayun tomb,Details
+book my hotel and flight,Book
+plan my travel,CreateItinerary
+know about india gate,Details
+book hotel and flight for me,Book
+what is my itinerary for bangalore,CreateItinerary
+details about lotus temple,Details
+book my tickets,Book
+plan a travel for me,CreateItinerary
+where is lotus temple,Details
+book my hotel tickets,Book
+create itinerary for me,CreateItinerary
+nearest metro station mughal garden,Details
+book my flight tickets,Book
+make an itinerary,CreateItinerary
+timings of doll museum,Details

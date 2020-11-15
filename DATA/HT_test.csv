@@ -1,0 +1,65 @@
+text,intent
+tell me about qutub minar,Details
+create my itinerary ,CreateItinerary
+ create my itinerary for pune,CreateItinerary
+know about char minar,Details
+book my hotel,Book
+details about purana quila,Details
+book a hotel for me,Book
+where is qutub minar,Details
+book my hotel,Book
+nearest metro station india gate,Details
+book my flight,Book
+what is my itinerary,CreateItinerary
+make my itinerary,CreateItinerary
+book a flight for me,Book
+book my flight,Book
+plan a trip,CreateItinerary
+timings of akshardham,Details
+what is my itinerary for assam,CreateItinerary
+plan a trip for delhi,CreateItinerary
+book hotel and flight,Book
+plan my travel,CreateItinerary
+book my hotel and flight,Book
+what is my itinerary,CreateItinerary
+what is my itinerary for hyderabad,CreateItinerary
+timings of qutub minar,Details
+tell me about lal quila,Details
+plan a trip for chandigarh,CreateItinerary
+know about india gate,Details
+book hotel and flight for me,Book
+details about lotus temple,Details
+where is lotus temple,Details
+nearest metro station lodhi garden,Details
+book my tickets,Book
+tell me about taj mahal,Details
+book tickets for me,Book
+know about bangla sahib,Details
+plan my travel ,CreateItinerary
+details of purana quila,Details
+book me tickets,Book
+where is golden temple,Details
+book my travel tickets,Book
+nearest metro station national museum,Details
+plan a travel for me,CreateItinerary
+timings of doll museum,Details
+book travel tickets for me,Book
+create itinerary for me,CreateItinerary
+travel tickets booking,Book
+create my itinerary for mumbai,CreateItinerary
+book flight tickets for me,Book
+make an itinerary,CreateItinerary
+what is my itinerary,CreateItinerary
+plan my trip,CreateItinerary
+what is my itinerary,CreateItinerary
+what is my itinerary for Delhi,CreateItinerary
+book my flight tickets,Book
+create an itinerary,CreateItinerary
+book flight tickets for me,Book
+create an itinerary for Pune,CreateItinerary
+hotel ticket booking,Book
+make an itinerary for me ,CreateItinerary
+plan a trip,CreateItinerary
+plan a trip for agra,CreateItinerary
+book hotel tickets for me ,Book
+book my hotel tickets,Book
